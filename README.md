@@ -288,7 +288,7 @@
 
 ### https://www.acunetix.com/blog/web-security-zone/xss-filter-evasion-basics/
 
-### [17/108] https://www.blackhat.com/presentations/bh-usa-09/VELANAVA/BHUSA09-VelaNava-FavoriteXSS-SLIDES.pdf
+### [30/108] https://www.blackhat.com/presentations/bh-usa-09/VELANAVA/BHUSA09-VelaNava-FavoriteXSS-SLIDES.pdf
 
 ### https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
 
