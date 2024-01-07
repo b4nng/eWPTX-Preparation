@@ -38,7 +38,7 @@
 
 ## LDAP Injection
 
-### https://www.neuralegion.com/blog/ldap-injection/
+### [x] https://www.neuralegion.com/blog/ldap-injection/
 
 ### https://repo.zenk-security.com/Techniques%20d.attaques%20%20.%20%20Failles/LDAP%20Injection%20and%20Blind%20LDAP%20Injection.pdf
 
