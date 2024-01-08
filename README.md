@@ -232,7 +232,7 @@
 
 ### https://owasp.org/www-community/attacks/SQL_Injection_Bypassing_WAF
 
-### https://blog.isec.pl/waf-evasion-techniques/
+### [x] https://blog.isec.pl/waf-evasion-techniques/
 
 ### https://www.sciencedirect.com/topics/computer-science/evasion-technique
 
